@@ -52,6 +52,7 @@ public class GabageCollection {
 		//list에 무한히 String 객체를 넣고 있기 때문에 value에 String이 재 선언되는 시점에서 list가
 		//그 전에 있던 String 객체를 참조하고 있기 때문에 가비지 컬렉션의 대상이 되지 않는다.
 		//리스트의 크기를 제한하거나, 불필요한 객체를 적시에 제거하는 코드를 작성해야한다.
+		//출처 : 구글+ChatGPT+배경지식
 		
 	}
 
